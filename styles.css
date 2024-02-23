@@ -1,0 +1,46 @@
+.main-container {
+  background: hsl(220, 15%, 55%);
+  position: relative;
+  top: 100px;
+}
+
+.sub-container {
+  padding: 0 20px;
+}
+
+.main-content {
+  background-color: hsl(0, 0%, 100%);
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+.image {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+p {
+  text-align: center;
+  font-size: 12px;
+}
+
+.first-paragraph {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 8px;
+}
+
+.second-paragraph {
+  padding-bottom: 30px;
+  font-size: 14px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
